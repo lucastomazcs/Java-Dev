@@ -1,3 +1,4 @@
+package edu.lucas.anatomia;
 public class CriandoMetodo {
 
     public static void main(String[] args) {
